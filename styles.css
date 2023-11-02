@@ -388,11 +388,12 @@ font-weight: bold;
   gap: 100px;
   justify-content: center;
   align-items: center;
+  background-color: rgba(100, 76, 100, 0.4);
   
  }
  
  .cards{
-   background-color: antiquewhite;
+   background-color: rgb(137, 161, 137);
    height: 20rem;
    width: 200px;
    padding: 50px;
