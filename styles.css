@@ -357,7 +357,7 @@ section {
   justify-content: center;
   padding: 50px;
   height: 100%;
-  background-color: #fffffffff;
+  background-color: rgba(100, 76, 100, 0.4);
   gap: 60px;
 }
 
@@ -366,7 +366,7 @@ text-align: center;
 flex-grow: 1;
 border-radius: 5px;
 padding: 30px;
-background-color: rgb(96, 227, 96)1), 192, 192);
+background-color: rgb(137, 161, 137);
 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
