@@ -211,6 +211,10 @@ section {
     font-size: 1.5rem;
   }
 
+  .container-F {
+    flex-direction: column;
+  }
+
   @media (max-width: 768px) {
     header {
       height: 100vh;
@@ -351,13 +355,14 @@ section {
   align-items: center;
   justify-content: center;
   padding: 50px;
-  height: 800px;
+  height: 100%;
   background-color: beige;
   gap: 60px;
 }
 
 .cardss {
 text-align: center;
+flex-grow: 1;
 border-radius: 5px;
 padding: 30px;
 background-color: #c0bfbf;
