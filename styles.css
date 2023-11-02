@@ -73,9 +73,11 @@ section {
 }
 .fourth-parallax {
   background-image: url(Assets/4.jpg);
+  background-size: contain;
 }
 .fifth-parallax {
   background-image: url(Assets/3.jpg);
+  background-size: contain;
 }
 .sixth-parallax {
   background-image: url(Assets/uiux.jpg);
